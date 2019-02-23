@@ -1,0 +1,7 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Definition}{4}{0}{1}
+\beamer@sectionintoc {2}{Taxonomy}{15}{0}{2}
+\beamer@sectionintoc {3}{Design Considerations}{27}{0}{3}
+\beamer@subsectionintoc {3}{1}{Metaphors}{30}{0}{3}
+\beamer@subsectionintoc {3}{2}{Multi-level Mappings}{35}{0}{3}
+\beamer@subsectionintoc {3}{3}{Machine Learning}{41}{0}{3}

@@ -1,0 +1,2 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Sound Synthesis}{3}{0}{1}

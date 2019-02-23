@@ -1,0 +1,35 @@
+CLASE 1 (20/03)
+presentacion asignatura
+videos
+introduction slides
+
+CLASE 2 (25/03)
+control interfaces slides
+empezar arduino
+
+CLASE 3 (27/03)
+identificar, probar sensores
+montaje con cada sensor
+trabajo: explicar para cada sensor: conexiones, rango, principio físico de funcionamiento
+
+CLASE 4 (01/04)
+slides sound synthesis
+tutorial sonic pi
+
+CLASE 5 (03/04)
+slides communication protocols
+probar cosas con sensores
+trabajo: implementar midi en arduino, recibir mensajes midi
+implementar sinte simple, 2 sliders, joystick, TODO PARAMETROS (mismos para todos)
+
+CLASE 6 (08/04)
+conciertos
+slides mapping
+
+CLASE 7 (10/04)
+slides communication protocols
+probar cosas con sensores
+trabajo: implementar midi en arduino, recibir mensajes midi
+
+
+----------------------------------------

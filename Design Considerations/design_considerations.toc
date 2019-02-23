@@ -1,0 +1,7 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Design Cycle}{3}{0}{1}
+\beamer@sectionintoc {2}{Output Diversity}{9}{0}{2}
+\beamer@sectionintoc {3}{Multithread / Shared Control}{14}{0}{3}
+\beamer@sectionintoc {4}{Apprenticeship}{18}{0}{4}
+\beamer@subsectionintoc {4}{1}{Learning Curve}{26}{0}{4}
+\beamer@subsectionintoc {4}{2}{Efficiency}{31}{0}{4}
