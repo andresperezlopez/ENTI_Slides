@@ -1,35 +1,259 @@
+---------------------------------------
 CLASE 1 (20/03)
 presentacion asignatura
+presentación yo, alumnos
+preguntar sobre qué piensan que va la asignatura
+preguntar background programacion
+
 videos
+- DOCUMENTAL NIME https://www.youtube.com/watch?v=VXHcfFCuDhI&index=2&list=PLOBUWKc80GQY-YGfEKEyWFaheLlgONGcT
+- TIO QUE PINCHA EN ICLC
+- ALEX MCLEAN https://www.youtube.com/watch?v=vqql_93pOjg
+- ATAU TANAKA https://www.youtube.com/watch?v=G6H1J2k--5I&t=37s
+
+
+
+
 introduction slides
 
+TIPO:
+- 2 horas clase magistral
+
+
+---------------------------------------
 CLASE 2 (25/03)
 control interfaces slides
-empezar arduino
+basicos electronica
 
+ejercicios resistencias
+http://www.learnabout-electronics.org/Resistors/resistors_21.php
+https://www.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/e/skill-check--identifying-series-and-parallel-resistors
+https://physics.info/circuits-r/practice.shtml
+https://www.electronics-tutorials.ws/resistor/res_5.html
+
+ejercicios colores
+http://www.funtrivia.com/playquiz/quiz2664721e821c8.html
+
+TIPO:
+- 1 horas clase magistral
+- 1 hora clase práctica
+
+
+---------------------------------------
 CLASE 3 (27/03)
-identificar, probar sensores
-montaje con cada sensor
-trabajo: explicar para cada sensor: conexiones, rango, principio físico de funcionamiento
+introduccion arduino
+- la placa
+- instalacion
+- basicos programacion (setup/loop, data types, variables, operators, functions, control statements, loops, time, io)
+https://www.tutorialspoint.com/arduino/index.htm
+https://playground.arduino.cc/uploads/Main/arduino_notebook_v1-1.pdf
 
+examples: led blink, button, potentiometer
+
+empezar trabajo 1 si hay tiempo
+
+TIPO:
+- 2 horas clase práctica
+
+
+****************************************
+TRABAJO 1---
+
+Elegir 3 sensores analógicos entre todos los disponibles. Hacer la clasificacion de vertegarrd (egocentric physical property, resolution, feedback), y también explicar el fundamento físico de funcionamiento (campo magnético, efecto Hall, efecto piezoeléctrico, etc). Realizar y dibujar el esquema de conexión y el programa. Exponerlo en la próxima clase.  
+
+TIPO:
+- Práctica guiada
+
+
+---------------------------------------
 CLASE 4 (01/04)
+
+Corregir entre todos el trabajo 1. (6 grupos, 5 minutos por grupo = media hora)
+
 slides sound synthesis
-tutorial sonic pi
+tutorial sonic pi (https://sonic-pi.net/tutorial.html):
+- 1, 2, 3, 4, 5, 7
 
+TIPO:
+- 2 horas clase práctica
+
+
+
+---------------------------------------
 CLASE 5 (03/04)
-slides communication protocols
-probar cosas con sensores
-trabajo: implementar midi en arduino, recibir mensajes midi
-implementar sinte simple, 2 sliders, joystick, TODO PARAMETROS (mismos para todos)
 
+slides communication protocols
+
+tutorial sonic pi (https://sonic-pi.net/tutorial.html):
+- 10, 11
+
+TIPO:
+- 1 hora clase magistral
+- 1 horas clase práctica
+
+
+
+****************************************
+TRABAJO 2---
+
+Hacer un sinte simple (monophonic, volume/pitch) (solo knobs), que mande midi y lo sintetize sonic pi. Exponerlo en la próxima clase.  
+
+
+TIPO:
+- Práctica guiada
+
+
+---------------------------------------
 CLASE 6 (08/04)
-conciertos
-slides mapping
+Corregir entre todos el trabajo 2. (6 grupos, 5 minutos por grupo = media hora)
+
+PRÁCTIA 1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+OSC: instalar osc controller (android) / control (iphone). programar algo que se comunique con sonicpi. (1 hora).
+
+Hacer concierto. (6 grupos, 5 minutos por grupo = media hora)
+cruzar los grupos para el concierto.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+TIPO:
+- 2 horas clase práctica
 
 CLASE 7 (10/04)
-slides communication protocols
-probar cosas con sensores
-trabajo: implementar midi en arduino, recibir mensajes midi
+---------------------------------------
+slides mapping
+
+(si hay tiempo, empezar trabajo 3)
+
+TIPO:
+- 2 horas clase práctica
 
 
-----------------------------------------
+
+****************************************
+TRABAJO 3---
+
+Wekinator: hacer algo con el raton (http://www.wekinator.org/walkthrough/), on-screen mouse control. Currarse el sinte. Entregar en vídeo. (similar to https://www.youtube.com/watch?v=dPV-gCqy9j4)
+
+
+TIPO:
+- Práctica guiada
+
+****************************************
+TRABAJO 4---
+
+Mejorar el sinte, cambiando el mapping. Preparar una performance. Dibujar el nuevo mapping. 
+
+TIPO:
+- Práctica guiada
+
+
+
+
+//////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
+
+
+
+CLASE 8 (24/04)
+---------------------------------------
+Corregir entre todos el trabajo 4. (6 grupos, 5 minutos por grupo = media hora)
+
+Slides interactivity
+
+TIPO:
+- 0.5 horas clase práctica
+- 1.5 horas clase magistral
+
+
+****************************************
+TRABAJO 5---
+Cambiar interfaz del sinte, usando los sensores que quieran.
+
+TIPO:
+- Práctica guiada
+
+CLASE 9 (29/04)
+---------------------------------------
+Corregir entre todos el trabajo 5. (6 grupos, 5 minutos por grupo = media hora).
+
+Slides design consideration
+
+TIPO:
+- 0.5 horas clase práctica
+- 1.5 horas clase magistral
+
+
+****************************************
+TRABAJO 6---
+Idear una metodología de evaluación basada en los conceptos vistos. 
+Cómo evaluar :cuantitativo/cualitativo, objetivo/subjetivo, items a evaluar. 
+
+TIPO:
+- Práctica guiada
+
+//////////////////////////////////////////////////////
+//////////////////////////////////////////////////////
+
+****************************************
+TRABAJO 7---
+ Hacer instrumento con todo lo que quieran. 
+
+
+CLASE 10 (06/05)
+---------------------------------------
+Corregir entre todos el trabajo 6. Decidir entre todos la propuesta (media hora?)
+Presentar y empezar trabajo 7.
+TIPO:
+- 2 horas clase práctica
+
+CLASE 11 (06/05)
+---------------------------------------
+Evaluación 1. (media hora)
+Seguir trabajo 7. 
+TIPO:
+- 2 horas clase práctica
+
+CLASE 12 (13/05)
+---------------------------------------
+Seguir trabajo 7. 
+TIPO:
+- 2 horas clase práctica
+
+CLASE 13 (15/05)
+---------------------------------------
+Evaluación 2. (media hora)
+Seguir trabajo 7. 
+TIPO:
+- 2 horas clase práctica
+
+CLASE 14 (20/05)
+---------------------------------------
+Seguir trabajo 7. 
+TIPO:
+- 2 horas clase práctica
+
+CLASE 15 (22/05)
+---------------------------------------
+Evaluación 3. (media hora) - Concierto Final.
+TIPO:
+- 2 horas clase práctica
+
+Conciertos?
+
+
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+TOTAL HORAS
+
+
+

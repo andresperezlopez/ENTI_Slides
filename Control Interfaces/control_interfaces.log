@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.8)  23 FEB 2019 02:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.8)  9 MAR 2019 21:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1116,139 +1116,139 @@ Package pdftex.def Info: insight.jpg used on input line 255.
 ] [36
 
 ]
-<vertegaal.png, id=283, 864.22874pt x 185.69376pt>
+<vertegaal.png, id=284, 864.22874pt x 185.69376pt>
 File: vertegaal.png Graphic file (type png)
  <use vertegaal.png>
-Package pdftex.def Info: vertegaal.png used on input line 291.
+Package pdftex.def Info: vertegaal.png used on input line 295.
 (pdftex.def)             Requested size: 307.28987pt x 66.02516pt.
 
-Overfull \hbox (0.5pt too wide) in paragraph at lines 291--291
- [][] 
+Overfull \hbox (1.0pt too wide) in paragraph at lines 295--295
+ [][][] 
  []
 
 [37
 
- <./vertegaal.png>] <ultrasonic.jpg, id=292, 144.54pt x 144.54pt>
+ <./vertegaal.png>] <ultrasonic.jpg, id=294, 144.54pt x 144.54pt>
 File: ultrasonic.jpg Graphic file (type jpg)
 
 <use ultrasonic.jpg>
-Package pdftex.def Info: ultrasonic.jpg used on input line 298.
+Package pdftex.def Info: ultrasonic.jpg used on input line 302.
 (pdftex.def)             Requested size: 230.46739pt x 230.47913pt.
 
-Overfull \vbox (18.34192pt too high) detected at line 298
+Overfull \vbox (18.34192pt too high) detected at line 302
  []
 
 [38
 
- <./ultrasonic.jpg>] <temperature.jpg, id=300, 144.54pt x 144.54pt>
+ <./ultrasonic.jpg>] <temperature.jpg, id=302, 144.54pt x 144.54pt>
 File: temperature.jpg Graphic file (type jpg)
 
 <use temperature.jpg>
-Package pdftex.def Info: temperature.jpg used on input line 305.
+Package pdftex.def Info: temperature.jpg used on input line 309.
 (pdftex.def)             Requested size: 230.46739pt x 230.47913pt.
 
-Overfull \vbox (20.47108pt too high) detected at line 305
+Overfull \vbox (20.47108pt too high) detected at line 309
  []
 
 [39
 
- <./temperature.jpg>] <photocell.jpg, id=307, 602.25pt x 602.25pt>
+ <./temperature.jpg>] <photocell.jpg, id=309, 602.25pt x 602.25pt>
 File: photocell.jpg Graphic file (type jpg)
 
 <use photocell.jpg>
-Package pdftex.def Info: photocell.jpg used on input line 312.
+Package pdftex.def Info: photocell.jpg used on input line 316.
 (pdftex.def)             Requested size: 230.46739pt x 230.46555pt.
 
-Overfull \vbox (18.32834pt too high) detected at line 312
+Overfull \vbox (18.32834pt too high) detected at line 316
  []
 
 [40
 
- <./photocell.jpg>] <buttons.jpg, id=314, 144.54pt x 144.54pt>
+ <./photocell.jpg>] <buttons.jpg, id=316, 144.54pt x 144.54pt>
 File: buttons.jpg Graphic file (type jpg)
 
 <use buttons.jpg>
-Package pdftex.def Info: buttons.jpg used on input line 319.
+Package pdftex.def Info: buttons.jpg used on input line 323.
 (pdftex.def)             Requested size: 230.46739pt x 230.47913pt.
 
-Overfull \vbox (18.34192pt too high) detected at line 319
+Overfull \vbox (18.34192pt too high) detected at line 323
  []
 
 [41
 
- <./buttons.jpg>] <trimpot.jpg, id=321, 144.54pt x 144.54pt>
+ <./buttons.jpg>] <trimpot.jpg, id=323, 144.54pt x 144.54pt>
 File: trimpot.jpg Graphic file (type jpg)
 
 <use trimpot.jpg>
-Package pdftex.def Info: trimpot.jpg used on input line 326.
+Package pdftex.def Info: trimpot.jpg used on input line 330.
 (pdftex.def)             Requested size: 230.46739pt x 230.47913pt.
 
-Overfull \vbox (20.47108pt too high) detected at line 326
+Overfull \vbox (20.47108pt too high) detected at line 330
  []
 
 [42
 
- <./trimpot.jpg>] <optical.jpg, id=328, 144.54pt x 144.54pt>
+ <./trimpot.jpg>] <optical.jpg, id=330, 144.54pt x 144.54pt>
 File: optical.jpg Graphic file (type jpg)
 
 <use optical.jpg>
-Package pdftex.def Info: optical.jpg used on input line 333.
+Package pdftex.def Info: optical.jpg used on input line 337.
 (pdftex.def)             Requested size: 230.46739pt x 230.47913pt.
 
-Overfull \vbox (21.0794pt too high) detected at line 333
+Overfull \vbox (21.0794pt too high) detected at line 337
  []
 
 [43
 
- <./optical.jpg>] <flex.jpg, id=336, 602.25pt x 602.25pt>
+ <./optical.jpg>] <flex.jpg, id=338, 602.25pt x 602.25pt>
 File: flex.jpg Graphic file (type jpg)
  <use flex.jpg>
-Package pdftex.def Info: flex.jpg used on input line 340.
+Package pdftex.def Info: flex.jpg used on input line 344.
 (pdftex.def)             Requested size: 230.46739pt x 230.46555pt.
 
-Overfull \vbox (18.32834pt too high) detected at line 340
+Overfull \vbox (18.32834pt too high) detected at line 344
  []
 
 [44
 
- <./flex.jpg>] <reed.jpg, id=343, 602.25pt x 602.25pt>
+ <./flex.jpg>] <reed.jpg, id=345, 602.25pt x 602.25pt>
 File: reed.jpg Graphic file (type jpg)
  <use reed.jpg>
-Package pdftex.def Info: reed.jpg used on input line 347.
+Package pdftex.def Info: reed.jpg used on input line 351.
 (pdftex.def)             Requested size: 230.46739pt x 230.46555pt.
 
-Overfull \vbox (18.32834pt too high) detected at line 347
+Overfull \vbox (18.32834pt too high) detected at line 351
  []
 
 [45
 
- <./reed.jpg>] <softpot.jpg, id=350, 602.25pt x 602.25pt>
+ <./reed.jpg>] <softpot.jpg, id=352, 602.25pt x 602.25pt>
 File: softpot.jpg Graphic file (type jpg)
  <use softpot.jpg>
-Package pdftex.def Info: softpot.jpg used on input line 354.
+Package pdftex.def Info: softpot.jpg used on input line 358.
 (pdftex.def)             Requested size: 230.46739pt x 230.46555pt.
 
-Overfull \vbox (20.4575pt too high) detected at line 354
+Overfull \vbox (20.4575pt too high) detected at line 358
  []
 
 [46
 
- <./softpot.jpg>] <piezovibration.jpg, id=357, 602.25pt x 602.25pt>
+ <./softpot.jpg>] <piezovibration.jpg, id=359, 602.25pt x 602.25pt>
 File: piezovibration.jpg Graphic file (type jpg)
 
 <use piezovibration.jpg>
-Package pdftex.def Info: piezovibration.jpg used on input line 361.
+Package pdftex.def Info: piezovibration.jpg used on input line 365.
 (pdftex.def)             Requested size: 199.73653pt x 199.73558pt.
  [47
 
  <./piezovibration.jpg>]
-<rgb.jpg, id=364, 144.54pt x 144.54pt>
+<rgb.jpg, id=366, 144.54pt x 144.54pt>
 File: rgb.jpg Graphic file (type jpg)
  <use rgb.jpg>
-Package pdftex.def Info: rgb.jpg used on input line 368.
+Package pdftex.def Info: rgb.jpg used on input line 372.
 (pdftex.def)             Requested size: 230.46739pt x 230.47913pt.
 
-Overfull \vbox (18.34192pt too high) detected at line 368
+Overfull \vbox (18.34192pt too high) detected at line 372
  []
 
 [48
@@ -1256,21 +1256,21 @@ Overfull \vbox (18.34192pt too high) detected at line 368
  <./rgb.jpg>]
 File: rgb.jpg Graphic file (type jpg)
  <use rgb.jpg>
-Package pdftex.def Info: rgb.jpg used on input line 375.
+Package pdftex.def Info: rgb.jpg used on input line 379.
 (pdftex.def)             Requested size: 230.46739pt x 230.47913pt.
 
-Overfull \vbox (18.34192pt too high) detected at line 375
+Overfull \vbox (18.34192pt too high) detected at line 379
  []
 
 [49
 
-] <joystick.jpg, id=378, 602.25pt x 602.25pt>
+] <joystick.jpg, id=380, 602.25pt x 602.25pt>
 File: joystick.jpg Graphic file (type jpg)
  <use joystick.jpg>
-Package pdftex.def Info: joystick.jpg used on input line 382.
+Package pdftex.def Info: joystick.jpg used on input line 386.
 (pdftex.def)             Requested size: 230.46739pt x 230.46555pt.
 
-Overfull \vbox (20.4575pt too high) detected at line 382
+Overfull \vbox (20.4575pt too high) detected at line 386
  []
 
 [50
@@ -1281,77 +1281,77 @@ Overfull \vbox (20.4575pt too high) detected at line 382
 
 ] [53
 
-] <ohm.png, id=398, 1927.2pt x 1469.49pt>
+] <ohm.png, id=400, 1927.2pt x 1469.49pt>
 File: ohm.png Graphic file (type png)
 
 <use ohm.png>
-Package pdftex.def Info: ohm.png used on input line 416.
+Package pdftex.def Info: ohm.png used on input line 420.
 (pdftex.def)             Requested size: 230.46739pt x 175.72578pt.
  [54
 
  <./ohm.png>]
-<electronics.png, id=406, 1027.84pt x 1439.3775pt>
+<electronics.png, id=408, 1027.84pt x 1439.3775pt>
 File: electronics.png Graphic file (type png)
  <use electronics.png>
-Package pdftex.def Info: electronics.png used on input line 422.
+Package pdftex.def Info: electronics.png used on input line 426.
 (pdftex.def)             Requested size: 153.64493pt x 215.15056pt.
 
 [55
 
- <./electronics.png>] <series.png, id=414, 2569.6pt x 698.61pt>
+ <./electronics.png>] <series.png, id=416, 2569.6pt x 698.61pt>
 File: series.png Graphic file (type png)
 
 <use series.png>
-Package pdftex.def Info: series.png used on input line 435.
+Package pdftex.def Info: series.png used on input line 439.
 (pdftex.def)             Requested size: 153.64493pt x 41.76555pt.
 
 
-LaTeX Font Warning: Command \Large invalid in math mode on input line 435.
+LaTeX Font Warning: Command \Large invalid in math mode on input line 439.
 
 [56
 
- <./series.png>] <parallel.png, id=423, 2569.6pt x 1228.59pt>
+ <./series.png>] <parallel.png, id=425, 2569.6pt x 1228.59pt>
 File: parallel.png Graphic file (type png)
 
 <use parallel.png>
-Package pdftex.def Info: parallel.png used on input line 448.
+Package pdftex.def Info: parallel.png used on input line 452.
 (pdftex.def)             Requested size: 153.64493pt x 73.44975pt.
 
 
-LaTeX Font Warning: Command \Large invalid in math mode on input line 448.
+LaTeX Font Warning: Command \Large invalid in math mode on input line 452.
 
 [57
 
- <./parallel.png>] <voltage_divider.png, id=430, 1027.84pt x 1320.935pt>
+ <./parallel.png>] <voltage_divider.png, id=432, 1027.84pt x 1320.935pt>
 File: voltage_divider.png Graphic file (type png)
 
 <use voltage_divider.png>
-Package pdftex.def Info: voltage_divider.png used on input line 460.
+Package pdftex.def Info: voltage_divider.png used on input line 464.
 (pdftex.def)             Requested size: 76.82246pt x 98.72319pt.
 
 
-LaTeX Font Warning: Command \Large invalid in math mode on input line 460.
+LaTeX Font Warning: Command \Large invalid in math mode on input line 464.
 
 [58
 
  <./voltage_divider.png>]
-<resistor-color-chart.png, id=437, 501.875pt x 423.5825pt>
+<resistor-color-chart.png, id=439, 501.875pt x 423.5825pt>
 File: resistor-color-chart.png Graphic file (type png)
 
 <use resistor-color-chart.png>
-Package pdftex.def Info: resistor-color-chart.png used on input line 468.
+Package pdftex.def Info: resistor-color-chart.png used on input line 472.
 (pdftex.def)             Requested size: 184.3758pt x 155.61137pt.
  [59
 
  <./resistor-color-chart.png>]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 476.
+(Font)              using `OT1/cmss/bx/n' instead on input line 480.
 
-<arduino.jpg, id=444, 180.675pt x 180.675pt>
+<arduino.jpg, id=446, 180.675pt x 180.675pt>
 File: arduino.jpg Graphic file (type jpg)
  <use arduino.jpg>
-Package pdftex.def Info: arduino.jpg used on input line 476.
+Package pdftex.def Info: arduino.jpg used on input line 480.
 (pdftex.def)             Requested size: 153.64493pt x 153.64613pt.
  [60
 
@@ -1365,11 +1365,11 @@ Package pdftex.def Info: arduino.jpg used on input line 476.
 \tf@snm=\write8
 \openout8 = `control_interfaces.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 484.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 484.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 488.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 488.
  (./control_interfaces.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 484.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 484.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 488.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 488.
 Package rerunfilecheck Info: File `control_interfaces.out' has not changed.
 (rerunfilecheck)             Checksum: 678858DC04085F6F67BA66B91070D96F;328.
 
@@ -1382,11 +1382,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18805 strings out of 492995
- 348423 string characters out of 6132705
- 428068 words of memory out of 5000000
- 21757 multiletter control sequences out of 15000+600000
- 14033 words of font info for 51 fonts, out of 8000000 for 9000
+ 18807 strings out of 492995
+ 348444 string characters out of 6132705
+ 428069 words of memory out of 5000000
+ 21758 multiletter control sequences out of 15000+600000
+ 14390 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,11n,55p,803b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
@@ -1397,11 +1397,13 @@ sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr
 /local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></us
 r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></us
 r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on control_interfaces.pdf (60 pages, 7721093 bytes).
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on control_interfaces.pdf (60 pages, 7737562 bytes).
 PDF statistics:
- 513 PDF objects out of 1000 (max. 8388607)
- 385 compressed objects within 4 object streams
+ 521 PDF objects out of 1000 (max. 8388607)
+ 391 compressed objects within 4 object streams
  127 named destinations out of 1000 (max. 500000)
  281 words of extra memory for PDF output out of 10000 (max. 10000000)
 

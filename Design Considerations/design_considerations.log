@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.8)  23 FEB 2019 01:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.8)  11 MAR 2019 20:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1092,7 +1092,7 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  18628 strings out of 492995
  346688 string characters out of 6132705
- 428101 words of memory out of 5000000
+ 428102 words of memory out of 5000000
  21646 multiletter control sequences out of 15000+600000
  16843 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
